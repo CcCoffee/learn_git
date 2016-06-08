@@ -2,3 +2,5 @@ create a new file   ---a
 add a line  ---b
 add a line again ---c
 add a line ----d
+
+gogo ---e
