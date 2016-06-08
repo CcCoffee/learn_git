@@ -1,2 +1,2 @@
 create license ---a
-how to change   -b
+how to change -b
