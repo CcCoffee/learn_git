@@ -1,2 +1,2 @@
-初次创建   ---a
-第二次增加了一行   ---b
+create a new file   ---a
+add a line  ---b
